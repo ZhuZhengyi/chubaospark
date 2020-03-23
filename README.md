@@ -1,2 +1,3 @@
 # chubaospark
-Running Apache Spark with ChubaoFS/ChubaoDB, and taking advantage of a disaggregated storage and compute architecture
+
+Building a ChubaoFS-based shuffle manager for Apache Spark. 
