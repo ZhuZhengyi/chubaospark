@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.chubao</groupId>
-    <artifactId>chubao-spark</artifactId>
+    <artifactId>cpark</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>chubao-spark</name>
+    <name>Cpark</name>
     <description>A spark shuffle service plugin that used chubaofs storage.</description>
-    <url>https://github.com/chubaofs/chubaospark</url>
+    <url>https://github.com/chubaofs/cpark</url>
 
     <licenses>
         <license>
